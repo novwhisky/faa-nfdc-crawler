@@ -1,0 +1,23 @@
+{
+  "name": "faa-nfdc-crawler",
+  "version": "1.0.0",
+  "description": "Working towards programmatic access to FAA publications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wittnl/faa-nfdc-crawler.git"
+  },
+  "keywords": [
+    "faa",
+    "aviation"
+  ],
+  "author": "Nathan Witt <wittnl@gmail.com> (http://wi.tt/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wittnl/faa-nfdc-crawler/issues"
+  },
+  "homepage": "https://github.com/wittnl/faa-nfdc-crawler"
+}
