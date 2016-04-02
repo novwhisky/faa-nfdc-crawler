@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/wittnl/faa-nfdc-crawler/issues"
   },
-  "homepage": "https://github.com/wittnl/faa-nfdc-crawler"
+  "homepage": "https://github.com/wittnl/faa-nfdc-crawler",
+  "dependencies": {
+    "icao": "^1.0.1"
+  }
 }
