@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/wittnl/faa-nfdc-crawler",
   "dependencies": {
+    "htmlparser2": "^3.9.0",
     "icao": "^1.0.1"
   }
 }
